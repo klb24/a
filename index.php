@@ -6,6 +6,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>TEST GIT commit</h1>
+	<h1>TEST GIT</h1>
+	<p>1er commit</p>
 </body>
 </html>
