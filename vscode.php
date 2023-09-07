@@ -1,3 +1,15 @@
+<?php
+    $test = "AAA";
+    
+    for ($i=0; $i < ; $i++) { 
+        # code...
+    }
+
+    foreach ($variable as $key => $value) {
+        # code...
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
